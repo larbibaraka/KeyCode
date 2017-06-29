@@ -1,9 +1,9 @@
-"# KeyCode" 
-<h1> Key Code Generator Using JavaScript </h1>
-<img src="pic1.png"/>
-<hr>
-<img src="pic2.png"/>
+# KeyCode 
+## Key Code Generator Using JavaScript
+![Screenshot](https://raw.githubusercontent.com/larbibaraka/KeyCode/master/pic1.PNG)
+---
+![Screenshot](https://raw.githubusercontent.com/larbibaraka/KeyCode/master/pic2.PNG)
 
-<h1>Enjoy </h1>
+### Enjoy
 
-<p>Please Leave a star so Every one can See it </p>      
+Please Leave a star so Every one can See it
