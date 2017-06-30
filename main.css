@@ -1,0 +1,17 @@
+body{
+    background-color: #1ABC9C;
+}
+#keycode{
+   
+    position: relative;
+    margin: 100px auto;
+    padding: 80px
+}
+#keycode h1{
+
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 13rem;
+    font-weight: bold;
+}
